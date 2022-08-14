@@ -2,7 +2,7 @@
 ### Pronouns: He/Him
 I am a developer with a degree in computer science and a minor in mathematics. 
 
-By day I develop proprietary software in an enterprise setting but on my free time I love to support and create open source projects.
+By day I develop proprietary software in an enterprise setting but in my free time I love to support and create open source projects.
 
 I am also proudly a huge nerd and gamer.
 
